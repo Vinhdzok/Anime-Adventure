@@ -1,0 +1,1137 @@
+{
+    "1": {
+        "type": "spawn_unit",
+        "money": 800,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 1,
+        "unit": "bulma"
+    },
+    "2": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 1,
+        "unit": "bulma"
+    },
+    "3": {
+        "type": "upgrade_unit_ingame",
+        "money": 3000,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 2,
+        "unit": "bulma"
+    },
+    "4": {
+        "type": "upgrade_unit_ingame",
+        "money": 4500,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 3,
+        "unit": "bulma"
+    },
+    "5": {
+        "type": "spawn_unit",
+        "money": 1350,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 3,
+        "unit": "judar_evolved"
+    },
+    "6": {
+        "type": "spawn_unit",
+        "money": 1350,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 3,
+        "unit": "judar_evolved"
+    },
+    "7": {
+        "type": "spawn_unit",
+        "money": 1350,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 4,
+        "unit": "judar_evolved"
+    },
+    "8": {
+        "type": "upgrade_unit_ingame",
+        "money": 7500,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 4,
+        "unit": "bulma"
+    },
+    "9": {
+        "type": "spawn_unit",
+        "money": 1500,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 5,
+        "unit": "stain_evolved"
+    },
+    "10": {
+        "type": "upgrade_unit_ingame",
+        "money": 2100,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 5,
+        "unit": "stain_evolved"
+    },
+    "11": {
+        "type": "upgrade_unit_ingame",
+        "money": 3000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 5,
+        "unit": "stain_evolved"
+    },
+    "12": {
+        "type": "upgrade_unit_ingame",
+        "money": 3500,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 6,
+        "unit": "stain_evolved"
+    },
+    "13": {
+        "type": "upgrade_unit_ingame",
+        "money": 10000,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 7,
+        "unit": "bulma"
+    },
+    "14": {
+        "type": "spawn_unit",
+        "money": 800,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 7,
+        "unit": "wendy"
+    },
+    "15": {
+        "type": "spawn_unit",
+        "money": 800,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 7,
+        "unit": "wendy"
+    },
+    "16": {
+        "type": "spawn_unit",
+        "money": 800,
+        "cframe": "399.857788, 45.9230843, 371.960419, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 7,
+        "unit": "wendy"
+    },
+    "17": {
+        "type": "spawn_unit",
+        "money": 800,
+        "cframe": "398.5672, 45.9230843, 371.447998, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 7,
+        "unit": "wendy"
+    },
+    "18": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "erwin"
+    },
+    "19": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "erwin"
+    },
+    "20": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "erwin"
+    },
+    "21": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "erwin"
+    },
+    "22": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "stain_evolved"
+    },
+    "23": {
+        "type": "spawn_unit",
+        "money": 1200,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "monet_evolved"
+    },
+    "24": {
+        "type": "spawn_unit",
+        "money": 1200,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "monet_evolved"
+    },
+    "25": {
+        "type": "spawn_unit",
+        "money": 1200,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 8,
+        "unit": "monet_evolved"
+    },
+    "26": {
+        "type": "upgrade_unit_ingame",
+        "money": 12500,
+        "cframe": "394.603943, 45.9230843, 374.604248, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 9,
+        "unit": "bulma"
+    },
+    "27": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 9,
+        "unit": "stain_evolved"
+    },
+    "28": {
+        "type": "upgrade_unit_ingame",
+        "money": 8000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 9,
+        "unit": "stain_evolved"
+    },
+    "29": {
+        "type": "upgrade_unit_ingame",
+        "money": 10000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 10,
+        "unit": "stain_evolved"
+    },
+    "30": {
+        "type": "upgrade_unit_ingame",
+        "money": 12000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 11,
+        "unit": "stain_evolved"
+    },
+    "31": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "397.318329, 45.9230843, 371.939056, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 13,
+        "unit": "stain_evolved"
+    },
+    "32": {
+        "type": "upgrade_unit_ingame",
+        "money": 2400,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 13,
+        "unit": "judar_evolved"
+    },
+    "33": {
+        "type": "upgrade_unit_ingame",
+        "money": 4500,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 13,
+        "unit": "judar_evolved"
+    },
+    "34": {
+        "type": "upgrade_unit_ingame",
+        "money": 6000,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 13,
+        "unit": "judar_evolved"
+    },
+    "35": {
+        "type": "upgrade_unit_ingame",
+        "money": 7500,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 13,
+        "unit": "judar_evolved"
+    },
+    "36": {
+        "type": "upgrade_unit_ingame",
+        "money": 11000,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 14,
+        "unit": "judar_evolved"
+    },
+    "37": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 15,
+        "unit": "judar_evolved"
+    },
+    "38": {
+        "type": "upgrade_unit_ingame",
+        "money": 2400,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 16,
+        "unit": "judar_evolved"
+    },
+    "39": {
+        "type": "upgrade_unit_ingame",
+        "money": 4500,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 16,
+        "unit": "judar_evolved"
+    },
+    "40": {
+        "type": "upgrade_unit_ingame",
+        "money": 6000,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 16,
+        "unit": "judar_evolved"
+    },
+    "41": {
+        "type": "upgrade_unit_ingame",
+        "money": 7500,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 17,
+        "unit": "judar_evolved"
+    },
+    "42": {
+        "type": "upgrade_unit_ingame",
+        "money": 11000,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 17,
+        "unit": "judar_evolved"
+    },
+    "43": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 17,
+        "unit": "judar_evolved"
+    },
+    "44": {
+        "type": "upgrade_unit_ingame",
+        "money": 2400,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 18,
+        "unit": "judar_evolved"
+    },
+    "45": {
+        "type": "upgrade_unit_ingame",
+        "money": 4500,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 18,
+        "unit": "judar_evolved"
+    },
+    "46": {
+        "type": "upgrade_unit_ingame",
+        "money": 6000,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 18,
+        "unit": "judar_evolved"
+    },
+    "47": {
+        "type": "upgrade_unit_ingame",
+        "money": 7500,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 18,
+        "unit": "judar_evolved"
+    },
+    "48": {
+        "type": "upgrade_unit_ingame",
+        "money": 11000,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 19,
+        "unit": "judar_evolved"
+    },
+    "49": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 20,
+        "unit": "monet_evolved"
+    },
+    "50": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 20,
+        "unit": "judar_evolved"
+    },
+    "51": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 21,
+        "unit": "monet_evolved"
+    },
+    "52": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 21,
+        "unit": "monet_evolved"
+    },
+    "53": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 21,
+        "unit": "monet_evolved"
+    },
+    "54": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 21,
+        "unit": "monet_evolved"
+    },
+    "55": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 21,
+        "unit": "monet_evolved"
+    },
+    "56": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 22,
+        "unit": "monet_evolved"
+    },
+    "57": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 22,
+        "unit": "monet_evolved"
+    },
+    "58": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 22,
+        "unit": "monet_evolved"
+    },
+    "59": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 22,
+        "unit": "monet_evolved"
+    },
+    "60": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 22,
+        "unit": "monet_evolved"
+    },
+    "61": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "62": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "63": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "64": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "65": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "66": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "67": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 23,
+        "unit": "monet_evolved"
+    },
+    "68": {
+        "type": "spawn_unit",
+        "money": 1500,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "69": {
+        "type": "upgrade_unit_ingame",
+        "money": 2100,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "70": {
+        "type": "upgrade_unit_ingame",
+        "money": 3000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "71": {
+        "type": "upgrade_unit_ingame",
+        "money": 3500,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "72": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "73": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "74": {
+        "type": "upgrade_unit_ingame",
+        "money": 8000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 24,
+        "unit": "stain_evolved"
+    },
+    "75": {
+        "type": "upgrade_unit_ingame",
+        "money": 10000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 25,
+        "unit": "stain_evolved"
+    },
+    "76": {
+        "type": "upgrade_unit_ingame",
+        "money": 12000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 26,
+        "unit": "stain_evolved"
+    },
+    "77": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "401.537811, 45.9230843, 373.096283, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "78": {
+        "type": "spawn_unit",
+        "money": 1500,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "79": {
+        "type": "upgrade_unit_ingame",
+        "money": 2100,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "80": {
+        "type": "upgrade_unit_ingame",
+        "money": 3000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "81": {
+        "type": "upgrade_unit_ingame",
+        "money": 3500,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "82": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "83": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 27,
+        "unit": "stain_evolved"
+    },
+    "84": {
+        "type": "upgrade_unit_ingame",
+        "money": 8000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 28,
+        "unit": "stain_evolved"
+    },
+    "85": {
+        "type": "upgrade_unit_ingame",
+        "money": 10000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 28,
+        "unit": "stain_evolved"
+    },
+    "86": {
+        "type": "upgrade_unit_ingame",
+        "money": 12000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 29,
+        "unit": "stain_evolved"
+    },
+    "87": {
+        "type": "upgrade_unit_ingame",
+        "money": 15000,
+        "cframe": "400.560913, 45.9230843, 367.175903, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 30,
+        "unit": "stain_evolved"
+    },
+    "88": {
+        "type": "upgrade_unit_ingame",
+        "money": 18000,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 31,
+        "unit": "judar_evolved"
+    },
+    "89": {
+        "type": "upgrade_unit_ingame",
+        "money": 35000,
+        "cframe": "402.726959, 45.9230843, 367.069824, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 32,
+        "unit": "judar_evolved"
+    },
+    "90": {
+        "type": "upgrade_unit_ingame",
+        "money": 18000,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 33,
+        "unit": "judar_evolved"
+    },
+    "91": {
+        "type": "upgrade_unit_ingame",
+        "money": 35000,
+        "cframe": "402.214539, 45.9230843, 369.721497, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 35,
+        "unit": "judar_evolved"
+    },
+    "92": {
+        "type": "upgrade_unit_ingame",
+        "money": 18000,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 36,
+        "unit": "judar_evolved"
+    },
+    "93": {
+        "type": "upgrade_unit_ingame",
+        "money": 35000,
+        "cframe": "402.495605, 45.9230843, 373.337036, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 38,
+        "unit": "judar_evolved"
+    },
+    "94": {
+        "type": "upgrade_unit_ingame",
+        "money": 9000,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 38,
+        "unit": "monet_evolved"
+    },
+    "95": {
+        "type": "upgrade_unit_ingame",
+        "money": 17500,
+        "cframe": "396.134338, 45.9230843, 367.263245, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 38,
+        "unit": "monet_evolved"
+    },
+    "96": {
+        "type": "upgrade_unit_ingame",
+        "money": 9000,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 39,
+        "unit": "monet_evolved"
+    },
+    "97": {
+        "type": "upgrade_unit_ingame",
+        "money": 17500,
+        "cframe": "400.749695, 45.9230843, 372.386414, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 39,
+        "unit": "monet_evolved"
+    },
+    "98": {
+        "type": "upgrade_unit_ingame",
+        "money": 9000,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 40,
+        "unit": "monet_evolved"
+    },
+    "99": {
+        "type": "upgrade_unit_ingame",
+        "money": 17500,
+        "cframe": "400.09726, 45.9230843, 369.427673, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "100": {
+        "type": "spawn_unit",
+        "money": 1200,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "101": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "102": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "103": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "104": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "105": {
+        "type": "upgrade_unit_ingame",
+        "money": 5000,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 41,
+        "unit": "monet_evolved"
+    },
+    "106": {
+        "type": "upgrade_unit_ingame",
+        "money": 6500,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 42,
+        "unit": "monet_evolved"
+    },
+    "107": {
+        "type": "upgrade_unit_ingame",
+        "money": 9000,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 42,
+        "unit": "monet_evolved"
+    },
+    "108": {
+        "type": "upgrade_unit_ingame",
+        "money": 17500,
+        "cframe": "397.327393, 45.9230843, 368.323517, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 42,
+        "unit": "monet_evolved"
+    },
+    "109": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "110": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "111": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "112": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "113": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "114": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "395.537659, 45.9230843, 369.894104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 43,
+        "unit": "erwin"
+    },
+    "115": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "116": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "117": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "118": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "119": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "120": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "395.382721, 45.9230843, 371.4104, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "121": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "122": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "123": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "124": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 44,
+        "unit": "erwin"
+    },
+    "125": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 45,
+        "unit": "erwin"
+    },
+    "126": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "393.223145, 45.9230843, 369.683228, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 45,
+        "unit": "erwin"
+    },
+    "127": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 45,
+        "unit": "erwin"
+    },
+    "128": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 45,
+        "unit": "erwin"
+    },
+    "129": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 45,
+        "unit": "erwin"
+    },
+    "130": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 46,
+        "unit": "erwin"
+    },
+    "131": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 46,
+        "unit": "erwin"
+    },
+    "132": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "393.828857, 45.9230843, 371.158051, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 46,
+        "unit": "erwin"
+    },
+    "133": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "134": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "135": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "136": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "137": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "138": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "139": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "399.917572, 45.9230843, 376.877625, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "140": {
+        "type": "spawn_unit",
+        "money": 775,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "141": {
+        "type": "upgrade_unit_ingame",
+        "money": 1000,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "142": {
+        "type": "upgrade_unit_ingame",
+        "money": 1500,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "143": {
+        "type": "upgrade_unit_ingame",
+        "money": 2000,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "144": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "145": {
+        "type": "upgrade_unit_ingame",
+        "money": 5500,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 47,
+        "unit": "erwin"
+    },
+    "146": {
+        "type": "upgrade_unit_ingame",
+        "money": 7000,
+        "cframe": "397.999603, 45.9230843, 376.987427, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 48,
+        "unit": "erwin"
+    },
+    "147": {
+        "type": "upgrade_unit_ingame",
+        "money": 1200,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "148": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "149": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "150": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "151": {
+        "type": "upgrade_unit_ingame",
+        "money": 6000,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "152": {
+        "type": "upgrade_unit_ingame",
+        "money": 8000,
+        "cframe": "399.891357, 45.9230843, 374.955597, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "153": {
+        "type": "upgrade_unit_ingame",
+        "money": 1200,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "154": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "155": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "156": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "157": {
+        "type": "upgrade_unit_ingame",
+        "money": 6000,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "158": {
+        "type": "upgrade_unit_ingame",
+        "money": 8000,
+        "cframe": "398.249756, 45.9230843, 374.473816, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "159": {
+        "type": "upgrade_unit_ingame",
+        "money": 1200,
+        "cframe": "399.857788, 45.9230843, 371.960419, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "160": {
+        "type": "upgrade_unit_ingame",
+        "money": 1750,
+        "cframe": "399.857788, 45.9230843, 371.960419, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "161": {
+        "type": "upgrade_unit_ingame",
+        "money": 2500,
+        "cframe": "399.857788, 45.9230843, 371.960419, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "162": {
+        "type": "upgrade_unit_ingame",
+        "money": 4000,
+        "cframe": "399.857788, 45.9230843, 371.960419, 1, 0, 0, 0, 1, 0, 0, 0, 1",
+        "wave": 50,
+        "unit": "wendy"
+    },
+    "Units": []
+}
