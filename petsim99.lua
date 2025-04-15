@@ -37,7 +37,7 @@ _G.ZapSettings = {
 	["PetSimulator99 - DeleteUnnecessaryPartsToggle"] = false, 
 	["PetSimulator99 - InfinitePetSpeedToggle"] = true, 
 	["PetSimulator99 - AutoTapToggle"] = true, 
-	["PetSimulator99 - AutoEfficientFarmToggle"] = true, 
+	["PetSimulator99 - AutoEfficientFarmToggle"] = false, 
 	["PetSimulator99 - AutoTapModeDropdown"] = "Random", -- Options = {"Random", "Nearest"}
 	["PetSimulator99 - AutoCollectToggle"] = true,
 	["PetSimulator99 - AutoUseUltimateToggle"] = false, 
